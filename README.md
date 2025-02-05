@@ -1,6 +1,6 @@
 # Simple audio dedupe
 
-A simple Python script to detect exact duplicate audio files in a specified directory. The script computes an MD5 hash for each audio file and groups files with matching hashes as duplicates. You can either output the duplicate file pairs to a CSV file or delete the duplicates automatically—all controlled via a command-line toggle.
+A simple Python script to detect exact duplicate audio files in a specified directory. The script computes an MD5 hash for each audio file and groups files with matching hashes as duplicates. You can either output the duplicate file pairs to a CSV file or delete the duplicates automatically (via a command-line toggle).
 
 ## Features
 
